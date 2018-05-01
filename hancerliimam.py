@@ -111,7 +111,7 @@ def dos2():
 		
 
 def usage():
-	print (''' \033[91m	ancerliimam Dos Script v.1 https://www.aspartim.org/
+	print (''' \033[91m	Hancerliimam Dos Script v.1 https://www.aspartim.org/
  _   _   ___   _   _  _____  _____ ______  _      _____  _____ ___  ___  ___  ___  ___
 | | | | / _ \ | \ | |/  __ \|  ___|| ___ \| |    |_   _||_   _||  \/  | / _ \ |  \/  |
 | |_| |/ /_\ \|  \| || /  \/| |__  | |_/ /| |      | |    | |  | .  . |/ /_\ \| .  . |
